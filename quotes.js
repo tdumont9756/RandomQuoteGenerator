@@ -1,4 +1,4 @@
-var quotes = [
+[
 	quote1{
 		author: "Steve Jobs",
 		quote:  "Stay hungry.  Stay foolish"
@@ -23,9 +23,4 @@ var quotes = [
 		author: "Steve Jobs",
 		quote:  "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart."
 	}
-];
-
-
-function testing(){
-	alert("I'm getting through!");
-}
+]
